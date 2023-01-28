@@ -1,0 +1,30 @@
+{
+  "name": "word-snatchers-cli-berries-plugin",
+  "version": "1.0.0",
+  "description": "Berries plugin for word-snatchers-cli",
+  "main": "index.js",
+  "repository": "https://github.com/akgondber/word-snatchers-cli-berries-plugin",
+  "author": "Rushan Alyautdinov <akgondber@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "scripts": {
+    "test": "uvu tests",
+    "prettify": "prettier --write ."
+  },
+  "keywords": [
+    "consolegame",
+    "cli",
+    "wordsnatcherscliplugin",
+    "plugin",
+    "berries",
+    "english",
+    "learning",
+    "training",
+    "practicing",
+    "words"
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.3",
+    "uvu": "^0.5.6"
+  }
+}
